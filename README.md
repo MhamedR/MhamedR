@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mhamed Radhouane</h1>
-<h3 align="center">Software engineer in Belgium · frontend roots · currently diving into AI</h3>
+<h3 align="center">Software Engineer in Belgium · Front-end roots · Currently diving into AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhamedr&label=Profile%20views&color=0e75b6&style=flat" alt="mhamedr" />
 </p>
 
+<h3 align="center">🤖 Agent Activity</h3>
+
 <p align="center">
+  <img
+    src="./assets/contribution-robot.svg"
+    alt="Animated AI contribution robot"
+  />
+</p>
+
+<p>
   Building web apps with <strong>Angular</strong> and <strong>TypeScript</strong>, and exploring <strong>agents</strong>, <strong>LLMs</strong>, <strong>prompting</strong>, and <strong>LangChain</strong>.
 </p>
 
@@ -21,9 +30,27 @@
 - [Retrieval-Augmented-Generation](https://github.com/MhamedR/Retrieval-Augmented-Generation) — RAG experiments in TypeScript
 - [RAG-Angular](https://github.com/MhamedR/RAG-Angular) — an Angular UI on top of a RAG stack
 
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://twitter.com/redoneo_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redoneo_o" height="30" width="40" /></a>
+<a href="https://twitter.com/redoneo_o" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://cdn.simpleicons.org/x/39d353"
+    alt="X - @redoneo_o"
+    height="30"
+    width="30"
+  />
+</a>
+<a href="https://bsky.app/profile/rathwan.bsky.social" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://cdn.simpleicons.org/bluesky/39d353"
+    alt="Bluesky - @rathwan.bsky.social"
+    height="30"
+    width="30"
+  />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -54,3 +81,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamedr&show_icons=true&locale=en" alt="mhamedr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedr&" alt="mhamedr" /></p>
+
