@@ -63,6 +63,15 @@
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/mhamedradhouane" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn - @mhamedradhouane"
+    height="30"
+    width="30"
+  />
+</a>
 <a href="https://twitter.com/redoneo_o" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
